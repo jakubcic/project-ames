@@ -2,9 +2,7 @@
 title: "Final Report: Analysis of Housing Prices in Ames, Iowa"
 author: "Jakub Cichon"
 date: "4/28/2018"
-output: 
-    html_document:
-        keep_md: true
+output: github_document
     
 ---
 
