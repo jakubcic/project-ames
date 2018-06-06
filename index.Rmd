@@ -1,20 +1,10 @@
 ---
-title: "Final Report"
+title: "Final Report: Analysis of Housing Prices in Ames, Iowa"
 author: "Jakub Cichon"
 date: "4/28/2018"
 output: html_document
     
 ---
-<br>
-
-\begingroup
-    \fontsize{42pt}{12pt}\selectfont
-    \begin{center}
-        Analysis of Housing Prices in Ames, Iowa
-    \end{center}  
-\endgroup
-
-\newpage
 
 
 ```{r, message=F, warning=F, echo=F}
